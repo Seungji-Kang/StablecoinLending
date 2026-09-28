@@ -1,1 +1,1 @@
-# solidity-stablecoin
+# 향후 개인 프로젝트로 재구현 예정
